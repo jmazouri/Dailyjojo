@@ -4,7 +4,7 @@ var videos = ["8w9LYL0sMx4", "SgWcSuxyvT8", "vgLbcuDhmzo", "6BgqFYrD8UM",
               "hS3nur6o6ME", "dZHMuUxuUfQ", "FwEQlJAYh3c", "tGhiCs6QRKw",
               "t2Gkc7LgoQ8", "jTCygHGhu78", "6zZlQ1WSn5U", "4KNqFhJ6-n0",
               "slxjvldJ3jg", "75Q440WphbE", "KQ5kRyzQkyw", "8OOA2qElunM",
-              "Vg7qEpiZ5uU", "dBDbwyVYrfk", "rZJa1gP_akA"];
+              "Vg7qEpiZ5uU", "dBDbwyVYrfk", "rZJa1gP_akA", "LoWyAuw8qLg"];
 
 var titleVideos = ["kkLgIrdIEfA", "iZ7Y5IqIHSk"];
 var chosenTitle = titleVideos[0];
